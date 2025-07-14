@@ -71,8 +71,8 @@ This project aims to classify penguin species (Adelie, Chinstrap, and Gentoo) us
 
 | Model           | Accuracy |
 |----------------|----------|
-| TensorFlow NN  | ~XX%     |
-| Random Forest  | ~XX%     |
+| Accuracy       | ~96%     |
+| LOGLOSS        | ~0.0910848     |
 
 > Replace `XX%` with your actual scores.
 
