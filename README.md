@@ -74,7 +74,7 @@ This project aims to classify penguin species (Adelie, Chinstrap, and Gentoo) us
 | Accuracy       | ~96%     |
 | LOGLOSS        | ~0.0910848     |
 
-> Replace `XX%` with your actual scores.
+
 
 ---
 
@@ -92,7 +92,7 @@ This project aims to classify penguin species (Adelie, Chinstrap, and Gentoo) us
    ```bash
    https://github.com/Asjad-Naqvi/Penguin_classification_using_tensorflow.git
    
-   🧠 Learnings
+ ##  🧠 Learnings
 Learned to handle biological datasets with missing values.
 
 Understood when to use classical ML vs. deep learning models.
